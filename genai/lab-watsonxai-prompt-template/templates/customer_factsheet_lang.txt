@@ -1,0 +1,2 @@
+input: {name} {family_name} is {age} years old and lives in {city}, {state}. Their purchase history includes {purchase_history}.
+output: Recommendations: Item 1: {recommendation_1} Item 2: {recommendation_2}
